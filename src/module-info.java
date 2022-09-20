@@ -1,0 +1,2 @@
+module gl.c {
+}
